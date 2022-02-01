@@ -1,6 +1,6 @@
-<p align="center">
+<a  align="center" href="your link" target="blank"><img align="center" src="https://i.pinimg.com/originals/eb/6b/16/eb6b16d179a2f98e9ee1d7763bf05fcf.gif" alt="" height="30" width="40" /></a>
+
   [![MasterHead](https://i.pinimg.com/originals/eb/6b/16/eb6b16d179a2f98e9ee1d7763bf05fcf.gif)](https://workwithmohsen.com)
-</p>
 
 
 ### Hi there 👋
