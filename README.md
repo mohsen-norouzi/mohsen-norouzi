@@ -1,4 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/eb/6b/16/eb6b16d179a2f98e9ee1d7763bf05fcf.gif)](https://workwithmohsen.com)
+<div align="center">
+  [![MasterHead](https://i.pinimg.com/originals/eb/6b/16/eb6b16d179a2f98e9ee1d7763bf05fcf.gif)](https://workwithmohsen.com)
+</div>
 
 
 ### Hi there 👋
