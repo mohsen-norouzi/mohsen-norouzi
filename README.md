@@ -10,6 +10,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="center">
-<a href="https://twitter.com/it_s_mohsen" target="blank">
+<a href="https://linkedin.com/in/mohsen-norouzi" target="blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
